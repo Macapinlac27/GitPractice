@@ -1,3 +1,3 @@
 # GitPractice
 # Hello, this is my sample repository
-#Modified
+# Modified
